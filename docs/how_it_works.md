@@ -2,7 +2,7 @@
 
 ## Terminology
 - Cache-hit: a pod framework is prebuilt and has same version with the one in Pod lock file.
-- Cache-miss: a pod framework is not prebuilt or has different version with the on in Pod lock file.
+- Cache-miss: a pod framework is not prebuilt or has different version with the one in Pod lock file.
 
 <img src=resources/pods_cache_flow.png width=800></img>
 
